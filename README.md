@@ -42,3 +42,6 @@ Please reach out to me with any questions:
 
 ## License:
 This project is licensed under the MIT License.
+
+*This project is a clone of the original repository crispy-octo-meme (https://github.com/coding-boot-camp/crispy-octo-meme).
+This was cloned into my own repository and edited in order to complete a challenge illustrating the usage of HTML, CSS, JavaScript, and jQuery on a webpage to follow accessibility standards.
